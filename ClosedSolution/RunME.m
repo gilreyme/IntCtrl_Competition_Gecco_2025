@@ -1,0 +1,6 @@
+
+pyenv('Version',...
+    'C:\Users\greyn\Documents\Control2025GECCO\interpretable-control-competition-main\ic39\Scripts\python.exe',...
+    'ExecutionMode','OutOfProcess');
+%%
+py.RunME.main()
